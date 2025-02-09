@@ -1,6 +1,6 @@
 {
-    "name": "portfolio_2024",
-    "short_name": "portfolio_2024",
+    "name": "flutter_portfolio_2024",
+    "short_name": "flutter_portfolio_2024",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
