@@ -1,0 +1,152 @@
+{
+    "appTittle": "Arturo Sosa - 2024",
+    "devName": "Arturo Sosa Bagnoli ESPAÑOL",
+    "devStack": "Analista Senior, desarrollador web y multiplataforma",
+    "devResume": "Soy un desarrollador de software con experiencia en tecnologías modernas.",
+    "aboutDescription": [
+      {
+        "order":"1",
+        "paragraph":"Back in 2012, I decided to try my hand at creating custom Tumblr themes and tumbled head first into the rabbit hole of coding and web development. Fast-forward to today, and I’ve had the privilege of building software for an advertising agency, a start-up, a huge corporation, and a digital product studio."
+      },
+      {
+        "order":"2",
+        "paragraph":"My main focus these days is building accessible user interfaces for our customers at Klaviyo. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In my free time, I've also released an online video course that covers everything you need to know to build a web app with the Spotify API."
+      },
+      {
+        "order":"3",
+        "paragraph":"When I’m not at the computer, I’m usually rock climbing, reading, hanging out with my wife and two cats, or running around Hyrule searching for Korok seeds."
+      }
+    ],
+    "themeSwitch":{
+      "offText":"dark",
+      "onText":"light"
+    },
+    "lenguageSwitch":{
+      "offText":"SPA",
+      "onText":"ENG"
+    },
+    "categoryList": [
+      {
+        "label": "Sobre mi",
+        "redirectMin": 0,
+        "redirectMax": 400
+      },
+      {
+        "label": "Experiencia",
+        "redirectMin": 401,
+        "redirectMax": 1199
+      },
+      {
+        "label": "Proyectos",
+        "redirectMin": 1200,
+        "redirectMax": 2500
+      }
+    ],
+    "redirectList": [
+        {
+          "label": "LinkedIn",
+          "icon":"linkedin",
+          "color": "#0e76a8",
+          "url": "https://www.linkedin.com/in/arturo-sosa-8463b1196"
+        },
+        {
+          "label": "GitHub",
+          "icon":"github",
+          "color": "#333333",
+          "url": "https://github.com/Bagnoli95"
+        },        {
+          "label": "Whatsapp",
+          "icon":"whatsapp",
+          "color": "#0e76a8",
+          "url": "https://wa.link/m1t5am"
+        },
+        {
+          "label": "Instagram",
+          "icon":"instagram",
+          "color": "#333333",
+          "url": "https://www.instagram.com/bagnoli95/"
+        }
+      ],
+    "experienceList": [
+      {
+        "date": "Proyecto 1",
+        "tittle": "Descripción del Proyecto 1.",
+        "description":"My main focus these days is building accessible user interfaces for our customers at Klaviyo. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In my free time, I've also released an online video course that covers everything you need to know to build a web app with the Spotify API.",
+        "stack":[
+          {"lenguaje":"Flutter"},
+          {"lenguaje":"Oracle"},
+          {"lenguaje":"Python"}
+        ]
+      },
+      {
+        "date": "Proyecto 2",
+        "tittle": "Descripción del Proyecto 2.",
+        "description":"My main focus these days is building accessible user interfaces for our customers at Klaviyo. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In my free time, I've also released an online video course that covers everything you need to know to build a web app with the Spotify API.",
+        "stack":[
+          {"lenguaje":"Flutter"},
+          {"lenguaje":"Oracle"},
+          {"lenguaje":"Python"},
+          {"lenguaje":"Python3"}
+        ]
+      },
+      {
+        "date": "Proyecto 3",
+        "tittle": "Descripción del Proyecto 2.",
+        "description":"My main focus these days is building accessible user interfaces for our customers at Klaviyo. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In my free time, I've also released an online video course that covers everything you need to know to build a web app with the Spotify API.",
+        "stack":[
+          {"lenguaje":"Flutter"},
+          {"lenguaje":"Oracle"},
+          {"lenguaje":"Python"},
+          {"lenguaje":"Python3"}
+        ]
+      },
+      {
+        "date": "Proyecto 4",
+        "tittle": "Descripción del Proyecto 2.",
+        "description":"My main focus these days is building accessible user interfaces for our customers at Klaviyo. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In my free time, I've also released an online video course that covers everything you need to know to build a web app with the Spotify API.",
+        "stack":[
+          {"lenguaje":"Flutter"},
+          {"lenguaje":"Oracle"},
+          {"lenguaje":"Python"},
+          {"lenguaje":"Python3"}
+        ]
+      },
+      {
+        "date": "Proyecto 5",
+        "tittle": "Descripción del Proyecto 2.",
+        "description":"My main focus these days is building accessible user interfaces for our customers at Klaviyo. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In my free time, I've also released an online video course that covers everything you need to know to build a web app with the Spotify API.",
+        "stack":[
+          {"lenguaje":"Flutter"},
+          {"lenguaje":"Oracle"},
+          {"lenguaje":"Python"},
+          {"lenguaje":"Flutter"},
+          {"lenguaje":"Oracle"},
+          {"lenguaje":"Python"},
+          {"lenguaje":"Python3"}
+        ]
+      }
+    ],
+    "projectsList": [
+        {
+          "picture": "assets/Print1.png",
+          "label":"asd",
+          "description": "My main focus these days is building accessible user interfaces for our customers at Klaviyo. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In my free time, I've also released an online video course that covers everything you need to know to build a web app with the Spotify API.",
+          "stack":[
+          {"lenguaje":"Flutter"},
+          {"lenguaje":"Oracle"},
+          {"lenguaje":"Python"}
+        ]
+        },
+        {
+          "picture": "assets/Print1.png",
+          "label":"asd",
+          "description": "My main focus these days is building accessible user interfaces for our customers at Klaviyo. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In my free time, I've also released an online video course that covers everything you need to know to build a web app with the Spotify API.",
+          "stack":[
+          {"lenguaje":"Flutter"},
+          {"lenguaje":"Oracle"},
+          {"lenguaje":"Python"}
+        ]
+        }
+      ],
+      "footerText":"Me despido. atentamente yo"
+}
