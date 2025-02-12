@@ -169,6 +169,29 @@
           {"language": "Fastapi"},
           {"language": "Sklearn"}
         ]
+      },
+      {
+        "picture": "assets/Print1.png",
+        "label": "MandyNotes",
+        "description": "Front End and Backend for event management and calendar handling.",
+        "stack": [
+          {"language": "Flutter"},
+          {"language": "Python"},
+          {"language": "Docker"},
+          {"language": "FastAPI"},
+          {"language": "PostgreSQL"}
+        ]
+      },
+      {
+        "picture": "assets/Print1.png",
+        "label": "docGenerator",
+        "description": "With this small application, the user can create infinite documents using an Excel template as a database and a Word template that can be customized as desired.",
+        "stack": [
+          {"language": "Python"},
+          {"language": "Docxtpl"},
+          {"language": "Docx2pdf"},
+          {"language": "Pandas"}
+        ]
       }
     ],
   "footerText": "Feel free to contact me if you need more information or if you want to work together on a project."
