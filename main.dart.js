@@ -62299,7 +62299,7 @@ A.u2.prototype={
 ag(){return new A.JT()}}
 A.JT.prototype={
 O(a){var s=this.d,r=s?$.anl():$.anh()
-return new A.tN(new A.uY(new A.uw(s,new A.a78(this),null),null),"Arturo Sosa - 2024",r,!1,null)}}
+return new A.tN(new A.uY(new A.uw(s,new A.a78(this),null),null),"Arturo Sosa",r,!1,null)}}
 A.a78.prototype={
 $1(a){var s=this.a
 s.ae(new A.a77(s,a))},
