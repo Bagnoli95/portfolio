@@ -1,45 +1,49 @@
 {
-  "appTittle": "Arturo Sosa - 2024",
-  "devName": "Arturo Sosa Bagnoli ENG",
-  "devStack": "Analista Senior, desarrollador web y multiplataforma",
-  "devResume": "Soy un desarrollador de software con experiencia en tecnologías modernas.",
+  "appTittle": "Arturo Sosa",
+  "devName": "Arturo Sosa Bagnoli",
+  "devStack": "Web developer, cross-platform, data science, machine learning, and deep learning.",
+  "devResume": "My favorite stack is Flutter, Python, PostgreSQL, and Docker. I have experience with Jboss, Tomcat, Openshift, Oracle, Genexus, Java, JavaScript, React, Node.js, Firebase, Jupyter, Scikit-learn, TensorFlow, Keras, and more.",
   "aboutDescription": [
     {
-      "order":"1",
-      "paragraph":"Back in 2012, I decided to try my hand at creating custom Tumblr themes and tumbled head first into the rabbit hole of coding and web development. Fast-forward to today, and I’ve had the privilege of building software for an advertising agency, a start-up, a huge corporation, and a digital product studio."
+      "order": "1",
+      "paragraph": "I have worked with more than 26 multidisciplinary teams creating innovative solutions in the world of credit, debit, and prepaid card payments for {CABAL PARAGUAY}. I love optimizing processes and designing scalable architectures that handle large volumes of transactions without losing efficiency. I am part of the team behind the financial application {DIMO} that handles thousands of daily transactions and the integration of more than 15 cooperatives into the transactional ecosystem of {SICOOP}."
     },
     {
-      "order":"2",
-      "paragraph":"My main focus these days is building accessible user interfaces for our customers at Klaviyo. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In my free time, I've also released an online video course that covers everything you need to know to build a web app with the Spotify API."
+      "order": "2",
+      "paragraph": "I am an adaptable and results-oriented person, always looking for practical solutions to complex problems. I always seek to simplify integration work with other systems or APIs, and I enjoy translating technical jargon into clear ideas so that any team, technical or not, can understand and work in harmony."
     },
     {
-      "order":"3",
-      "paragraph":"When I’m not at the computer, I’m usually rock climbing, reading, hanging out with my wife and two cats, or running around Hyrule searching for Korok seeds."
+      "order": "3",
+      "paragraph": "I am always looking for new challenges that help me grow professionally. I am motivated by continuous learning, facing technological challenges, and leading with empathy and commitment."
+    },
+    {
+      "order": "4",
+      "paragraph": "Besides technology, I am passionate about working on robotics projects and anything with a geek touch. I am a proud nerd and Star Wars fan, and when I'm not coding, I enjoy spending time with my wife and daughter, exploring new places, and creating memories together."
     }
   ],
-  "themeSwitch":{
-      "offText":"dark",
-      "onText":"light"
+  "themeSwitch": {
+    "offText": "dark",
+    "onText": "light"
   },
-  "lenguageSwitch":{
-    "offText":"SPA",
-    "onText":"ENG"
+  "lenguageSwitch": {
+    "offText": "SPA",
+    "onText": "ENG"
   },
   "categoryList": [
     {
-      "label": "Sobre mi",
+      "label": "About Me",
       "redirectMin": 0,
       "redirectMax": 400
     },
     {
-      "label": "Experiencia",
-      "redirectMin": 401,
-      "redirectMax": 1199
+      "label": "Experience",
+      "redirectMin": 501,
+      "redirectMax": 1400
     },
     {
-      "label": "Proyectos",
-      "redirectMin": 1200,
-      "redirectMax": 2500
+      "label": "Projects",
+      "redirectMin": 1401,
+      "redirectMax": 2000
     }
   ],
   "redirectList": [
@@ -54,99 +58,118 @@
         "icon":"github",
         "color": "#333333",
         "url": "https://github.com/Bagnoli95"
-      },        {
+      },
+      {
         "label": "Whatsapp",
         "icon":"whatsapp",
-        "color": "#0e76a8",
+        "color": "#25D366",
         "url": "https://wa.link/m1t5am"
       },
       {
         "label": "Instagram",
         "icon":"instagram",
-        "color": "#333333",
+        "color": "#E1306C",
         "url": "https://www.instagram.com/bagnoli95/"
       }
-    ],
+  ],
   "experienceList": [
     {
-      "date": "Proyecto 1",
-      "tittle": "Descripción del Proyecto 1.",
-      "description":"My main focus these days is building accessible user interfaces for our customers at Klaviyo. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In my free time, I've also released an online video course that covers everything you need to know to build a web app with the Spotify API.",
-      "stack":[
-        {"lenguaje":"Flutter"},
-        {"lenguaje":"Oracle"},
-        {"lenguaje":"Python"}
-      ]
+      "date": "01/2025 - Present",
+      "tittle": "Solo: Bank Transfer Manager",
+      "description": "CRM for transfer tracking and customer service.",
+      "stack": []
     },
     {
-      "date": "Proyecto 2",
-      "tittle": "Descripción del Proyecto 2.",
-      "description":"My main focus these days is building accessible user interfaces for our customers at Klaviyo. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In my free time, I've also released an online video course that covers everything you need to know to build a web app with the Spotify API.",
-      "stack":[
-        {"lenguaje":"Flutter"},
-        {"lenguaje":"Oracle"},
-        {"lenguaje":"Python"},
-        {"lenguaje":"Python3"}
-      ]
+      "date": "05/2024 - 12/2024",
+      "tittle": "Team: Debit Card Manager",
+      "description": "Screens for customers to manage their debit card portfolio.",
+      "stack": []
     },
     {
-      "date": "Proyecto 3",
-      "tittle": "Descripción del Proyecto 2.",
-      "description":"My main focus these days is building accessible user interfaces for our customers at Klaviyo. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In my free time, I've also released an online video course that covers everything you need to know to build a web app with the Spotify API.",
-      "stack":[
-        {"lenguaje":"Flutter"},
-        {"lenguaje":"Oracle"},
-        {"lenguaje":"Python"},
-        {"lenguaje":"Python3"}
-      ]
+      "date": "01/2024 - 05/2024",
+      "tittle": "Solo: DimoEmpresa",
+      "description": "Salary management and dynamic creation of customizable prepaid cards.",
+      "stack": []
     },
     {
-      "date": "Proyecto 4",
-      "tittle": "Descripción del Proyecto 2.",
-      "description":"My main focus these days is building accessible user interfaces for our customers at Klaviyo. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In my free time, I've also released an online video course that covers everything you need to know to build a web app with the Spotify API.",
-      "stack":[
-        {"lenguaje":"Flutter"},
-        {"lenguaje":"Oracle"},
-        {"lenguaje":"Python"},
-        {"lenguaje":"Python3"}
-      ]
+      "date": "06/2023 - 07/2024",
+      "tittle": "Solo: Banking Switch",
+      "description": "Manager, control, and handling of connections between Banks and Cooperatives.",
+      "stack": []
     },
     {
-      "date": "Proyecto 5",
-      "tittle": "Descripción del Proyecto 2.",
-      "description":"My main focus these days is building accessible user interfaces for our customers at Klaviyo. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In my free time, I've also released an online video course that covers everything you need to know to build a web app with the Spotify API.",
-      "stack":[
-        {"lenguaje":"Flutter"},
-        {"lenguaje":"Oracle"},
-        {"lenguaje":"Python"},
-        {"lenguaje":"Flutter"},
-        {"lenguaje":"Oracle"},
-        {"lenguaje":"Python"},
-        {"lenguaje":"Python3"}
-      ]
+      "date": "05/2023 - 12/2024",
+      "tittle": "Solo: Transaction Reconciliation Engine",
+      "description": "Transactional reconciler for controlling transactions within the SICOOP transactional ecosystem.",
+      "stack": []
+    },
+    {
+      "date": "05/2023 - 12/2024",
+      "tittle": "Solo: Commission Distribution",
+      "description": "Calculation and distribution among Banking actors.",
+      "stack": []
+    },
+    {
+      "date": "01/2023 - 05/2023",
+      "tittle": "Solo: Electronic Invoicing for Cabal",
+      "description": "Upgrade to Cabal's invoicing system to issue electronic documents.",
+      "stack": []
+    },
+    {
+      "date": "01/2022 - Present",
+      "tittle": "Solo: Backend for DIMO and Custom DIMO Apps",
+      "description": "Various services for the DIMO and SICOOP brands.",
+      "stack": []
+    },
+    {
+      "date": "08/2020 - 01/2022",
+      "tittle": "Team: Cabal Invoicing System",
+      "description": "Part of the team developing the automation of invoices for entities within the Cabal and SICOOP ecosystem.",
+      "stack": []
+    },
+    {
+      "date": "08/2020 - 01/2022",
+      "tittle": "Team: CRM for DIMO",
+      "description": "For managing the DIMO APP.",
+      "stack": []
+    },
+    {
+      "date": "08/2020 - 12/2020",
+      "tittle": "Solo: Embossing for DIMO",
+      "description": "Embossing system for DIMO prepaid cards.",
+      "stack": []
+    },
+    {
+      "date": "08/2020 - Present",
+      "tittle": "Solo: Participant Integrations into the SICOOP Ecosystem.",
+      "description": "Integration of various cooperatives. Collaborated with companies like Konecta, Kove, Kernel, Gtov, dPago, and more. Also part of the team that implemented services with Banks like Atlas, Fic, Interfisa, and Continental.",
+      "stack": []
     }
   ],
   "projectsList": [
       {
         "picture": "assets/Print1.png",
-        "label":"asd",
-        "description": "My main focus these days is building accessible user interfaces for our customers at Klaviyo. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In my free time, I've also released an online video course that covers everything you need to know to build a web app with the Spotify API.",
-        "stack":[
-        {"lenguaje":"Flutter"},
-        {"lenguaje":"Oracle"},
-        {"lenguaje":"Python"}
-      ]
+        "label": "deployment_model_training",
+        "description": "Project to deploy the training of a Machine Learning and Deep Learning model. Designed for use in a production environment.",
+        "stack": [
+          {"language": "Python"},
+          {"language": "Docker"},
+          {"language": "sklearn"},
+          {"language": "Yellowbrick"},
+          {"language": "Tensorflow"}
+        ]
       },
       {
         "picture": "assets/Print1.png",
-        "label":"asd",
-        "description": "My main focus these days is building accessible user interfaces for our customers at Klaviyo. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In my free time, I've also released an online video course that covers everything you need to know to build a web app with the Spotify API.",
-        "stack":[
-        {"lenguaje":"Flutter"},
-        {"lenguaje":"Oracle"},
-        {"lenguaje":"Python"}
-      ]
+        "label": "deployment_model_inference",
+        "description": "Project to deploy a Machine Learning and Deep Learning model. Exposes an endpoint for predictions.",
+        "stack": [
+          {"language": "Python"},
+          {"language": "Docker"},
+          {"language": "Fastapi"},
+          {"language": "Sklearn"}
+        ]
       }
     ],
-    "footerText":"Me despido. atentamente yo"
+  "footerText": "Feel free to contact me if you need more information or if you want to work together on a project."
 }
