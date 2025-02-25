@@ -152,11 +152,11 @@
         "label": "deployment_model_training",
         "description": "Project to deploy the training of a Machine Learning and Deep Learning model. Designed for use in a production environment.",
         "stack": [
-          {"language": "Python"},
-          {"language": "Docker"},
-          {"language": "sklearn"},
-          {"language": "Yellowbrick"},
-          {"language": "Tensorflow"}
+          {"lenguaje": "Python"},
+          {"lenguaje": "Docker"},
+          {"lenguaje": "sklearn"},
+          {"lenguaje": "Yellowbrick"},
+          {"lenguaje": "Tensorflow"}
         ]
       },
       {
@@ -164,10 +164,10 @@
         "label": "deployment_model_inference",
         "description": "Project to deploy a Machine Learning and Deep Learning model. Exposes an endpoint for predictions.",
         "stack": [
-          {"language": "Python"},
-          {"language": "Docker"},
-          {"language": "Fastapi"},
-          {"language": "Sklearn"}
+          {"lenguaje": "Python"},
+          {"lenguaje": "Docker"},
+          {"lenguaje": "Fastapi"},
+          {"lenguaje": "Sklearn"}
         ]
       },
       {
@@ -175,11 +175,11 @@
         "label": "MandyNotes",
         "description": "Front End and Backend for event management and calendar handling.",
         "stack": [
-          {"language": "Flutter"},
-          {"language": "Python"},
-          {"language": "Docker"},
-          {"language": "FastAPI"},
-          {"language": "PostgreSQL"}
+          {"lenguaje": "Flutter"},
+          {"lenguaje": "Python"},
+          {"lenguaje": "Docker"},
+          {"lenguaje": "FastAPI"},
+          {"lenguaje": "PostgreSQL"}
         ]
       },
       {
@@ -187,10 +187,10 @@
         "label": "docGenerator",
         "description": "With this small application, the user can create infinite documents using an Excel template as a database and a Word template that can be customized as desired.",
         "stack": [
-          {"language": "Python"},
-          {"language": "Docxtpl"},
-          {"language": "Docx2pdf"},
-          {"language": "Pandas"}
+          {"lenguaje": "Python"},
+          {"lenguaje": "Docxtpl"},
+          {"lenguaje": "Docx2pdf"},
+          {"lenguaje": "Pandas"}
         ]
       }
     ],
